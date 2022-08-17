@@ -1,0 +1,9 @@
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\DataLinkLayer\bin\Debug\DataLinkLayer.dll
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\DataLinkLayer\bin\Debug\DataLinkLayer.pdb
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\DataLinkLayer\bin\Debug\EntityLayer.dll
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\DataLinkLayer\bin\Debug\EntityLayer.pdb
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\DataLinkLayer\obj\Debug\DataLinkLayer.csproj.AssemblyReference.cache
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\DataLinkLayer\obj\Debug\DataLinkLayer.csproj.CoreCompileInputs.cache
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\DataLinkLayer\obj\Debug\DataLinkLayer.csproj.CopyComplete
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\DataLinkLayer\obj\Debug\DataLinkLayer.dll
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\DataLinkLayer\obj\Debug\DataLinkLayer.pdb

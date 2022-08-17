@@ -1,0 +1,14 @@
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\bin\Debug\Assessment ADO.net using Two Tables.exe.config
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\bin\Debug\Assessment ADO.net using Two Tables.exe
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\bin\Debug\Assessment ADO.net using Two Tables.pdb
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\bin\Debug\BusinessLayer.dll
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\bin\Debug\EntityLayer.dll
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\bin\Debug\DataLinkLayer.dll
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\bin\Debug\BusinessLayer.pdb
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\bin\Debug\EntityLayer.pdb
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\bin\Debug\DataLinkLayer.pdb
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\obj\Debug\Assessment ADO.net using Two Tables.exe
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\obj\Debug\Assessment ADO.net using Two Tables.pdb

@@ -1,0 +1,6 @@
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\EntityLayer\obj\Debug\EntityLayer.pdb

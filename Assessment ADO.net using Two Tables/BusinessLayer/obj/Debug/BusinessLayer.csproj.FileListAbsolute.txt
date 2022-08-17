@@ -1,0 +1,11 @@
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\BusinessLayer\bin\Debug\DataLinkLayer.dll
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\BusinessLayer\bin\Debug\DataLinkLayer.pdb
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\chirag.bedi\source\repos\.Net training\Assessment ADO.net using Two Tables\BusinessLayer\obj\Debug\BusinessLayer.pdb
